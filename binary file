@@ -1,0 +1,18 @@
+Homework 3
+100 Points
+CIS 26B Advanced C Programming Assignments
+BINARY FILES and STRINGS
+Grading Hw_3_A (20Points)
+There are a number of errors (about 6) in this program.
+Locate all errors, fix them run the program and save its output.
+
+Grading Hw_3_B (80Points)
+Project: Hardware Store Database – hashing to disk // See next page
+The program passes the input filenames to the program as an argv parameter.
+1. Use of the argv parameter//file name
+2. Create binary file
+3. Insert data from an input text file
+4. Insert data from keyboard
+5. Delete
+6. Find and display
+7. Error checking
